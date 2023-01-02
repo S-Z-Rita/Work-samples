@@ -8,5 +8,9 @@ Test Design Techniques:
 • Decision table
 • Test cases
 
+Jira:
+• User story, Acceptance criteria
+• Bug
+
 UML:
 • Activity diagram
